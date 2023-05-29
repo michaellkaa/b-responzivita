@@ -91,12 +91,12 @@ header {
     color: #1a1a1a;
     display: block;
     transition: 0.4s;
-    font-family: var(--second-font);
+    font-family: Calibri;
     text-transform: uppercase;
 }
   
 .mobile-nav a:hover {
-    color: var(--third-color);
+    color: #fff;
     text-decoration: underline;
 }
   
